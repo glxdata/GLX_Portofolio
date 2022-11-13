@@ -5,6 +5,6 @@ My data science portfolio
 
 > Plotting energy and gas consumption for a typical household to examine seasonal and temporal trends
 > 
-> Including ANOVA anlysis and data wrangeling for dates
+> Including ANOVA analysis and data wrangeling for dates
 
 ![](images/kwhHourTimzoneCombined.png?raw=true)
