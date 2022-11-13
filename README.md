@@ -1,5 +1,5 @@
 # GLX_Portofolio
-My data science portfolio
+My data science portfolio :positive chart:
 
 # [Project 1: Energy Consumption Analysis](https://github.com/glxdata/energy_project)
 
