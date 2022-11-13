@@ -1,4 +1,5 @@
 markdown: GFM
 show_downloads: FALSE
 theme: jekyll-theme-slate
-github: is_project_page: false
+github:
+  is_project_page: false
