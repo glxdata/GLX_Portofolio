@@ -1,5 +1,5 @@
-markdown: GFM
+markdown: kramdown
 show_downloads: FALSE
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 github:
   is_project_page: false
