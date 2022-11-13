@@ -1,3 +1,2 @@
-url: "https://glxdata.github.io/GLX_Portofolio/"
-markdown: kramdown
+markdown: GFM
 theme: slate
