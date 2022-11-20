@@ -1,3 +1,4 @@
+----
 # GLX_Portofolio
 {:.no_toc}
 
@@ -5,6 +6,7 @@ My data science portfolio
 
 * TOC 
 {:toc}
+----
 
 # [Project 1: Energy Consumption Analysis](https://github.com/glxdata/energy_project)
 
