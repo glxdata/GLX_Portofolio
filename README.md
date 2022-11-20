@@ -1,6 +1,6 @@
 ----
 #### Table of Contents
-{:.no_toc .gitlab-orange}
+{:.no_toc}
 
 * TOC 
 {:toc}
