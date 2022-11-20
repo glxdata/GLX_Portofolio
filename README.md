@@ -1,4 +1,6 @@
 # GLX_Portofolio
+{:.no_toc}
+
 My data science portfolio
 
 * TOC 
