@@ -3,7 +3,7 @@
 {:.no_toc}
 
 * TOC 
-{:toc}
+{:toc .red}
 ----
 
 # [Project 1: Energy Consumption Analysis](https://github.com/glxdata/energy_project)
