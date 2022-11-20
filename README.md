@@ -10,7 +10,7 @@ My data science portfolio
 ![](images/kwhHourTimzoneCombined.png?raw=true)
 
 
-# [Project Voronoi Graphs](https://github.com/glxdata/voronoi)
+# [Project 2: Voronoi Graphs](https://github.com/glxdata/voronoi)
 
 > Example plotting Voronoi graphs in R
 > 
