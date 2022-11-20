@@ -8,3 +8,12 @@ My data science portfolio
 > Including ANOVA analysis and data wrangeling for dates
 
 ![](images/kwhHourTimzoneCombined.png?raw=true)
+
+
+# [Project Voronoi Graphs](https://github.com/glxdata/voronoi)
+
+> Example plotting Voronoi graphs in R
+> 
+> Including colorblind friendly style
+
+![](images/voronoiAdvanced.png)
