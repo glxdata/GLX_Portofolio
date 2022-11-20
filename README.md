@@ -1,8 +1,6 @@
 ----
-# GLX_Portofolio
+## Table of Contents
 {:.no_toc}
-
-My data science portfolio
 
 * TOC 
 {:toc}
