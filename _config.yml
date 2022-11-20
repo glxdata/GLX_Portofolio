@@ -1,7 +1,4 @@
 markdown: kramdown
-  toc: true
-  toc_depth: 2
-  toc_float: true
 show_downloads: FALSE
 theme: jekyll-theme-slate
 github:
